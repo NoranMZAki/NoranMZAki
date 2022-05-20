@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noran Zaki
-- 👀 I’m interested in Web designing
+- 👀 I’m interested in Web designing and developing
 - 📫 you can reach me via my twitter @noranzaki14
 
 <!---
